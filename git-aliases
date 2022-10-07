@@ -7,3 +7,4 @@ git config --global alias.rv 'remote -v'
 git config --global alias.d 'diff'
 git config --global alias.gl 'config --global -l'
 git config --global alias.se '!git rev-list --all | xargs git grep -F'
+git config --global help.autocorrect 20
